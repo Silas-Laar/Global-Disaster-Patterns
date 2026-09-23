@@ -1,1 +1,4 @@
 # Global-Disaster-Patterns
+This study examined the spatial and temporal patterns of six major disaster types recorded in the GDACS database from 2000 to 2025. A composite Disaster Burden Index was developed by integrating event frequency, recurrence, multi hazard diversity, and severity to identify geographic areas with sustained and heightened humanitarian response needs.
+
+The findings demonstrate a marked geographic concentration of disaster risk, with a limited number of multi hazard hotspots experiencing persistent and elevated disaster burdens. In particular, areas exposed to combinations of floods and tropical cyclones or droughts and wildfires showed recurrent patterns of hazard occurrence, highlighting the need for strengthened preparedness, risk reduction, and coordinated humanitarian response systems.
